@@ -94,11 +94,6 @@ git commit -m "Updated views"
 eb deploy staging --staged
 ```
 
-```sh
-git add .
-git commit -m "Updated views again"
-eb deploy staging --staged
-```
 
 ```sh
 eb open staging
