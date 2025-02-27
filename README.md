@@ -105,7 +105,8 @@ eb open staging
 
 ```sh
 eb health staging
-eb swap
+eb swap production
+
 ```
 
 ---
